@@ -1,0 +1,27 @@
+{
+  "light_amplitude": 4e-6,
+  "flat_polarizers": [
+    {
+      "angle": 0.25,
+      "distance": 2e-6
+    },
+    {
+      "angle": 0.75,
+      "distance": 8e-6
+    }
+  ],
+  "polarization_plates": [
+    {
+      "angle": 0.5,
+      "refraction_difference": 0.1,
+      "width": 0.00000125,
+      "distance": 4e-6
+    },
+    {
+      "angle": 1,
+      "refraction_difference": 0.1,
+      "width": 0.00000125,
+      "distance": 6e-6
+    }
+  ]
+}
